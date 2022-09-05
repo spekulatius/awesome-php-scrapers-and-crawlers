@@ -13,7 +13,7 @@ A collection of scrapers, spiders, crawlers, and related tools.
 <!-- image -->
 
 <a href="https://github.com/spekulatius/awesome-php-scrapers-and-crawlers" target="_blank" rel="noopener noreferrer">
-  <img src="image.png" />
+  <img src="logo.png" />
 </a>
 
 <!-- description -->
