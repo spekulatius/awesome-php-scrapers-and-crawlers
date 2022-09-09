@@ -43,6 +43,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 ## Scrapers
 
 - [PHP Scraper](https://github.com/spekulatius/PHPScraper) - A simple way to scraper and crawl the web from PHP.
+- [Roach](https://github.com/roach-php/core) - A complete PHP web-scraping toolkit inspired by Scrapy. [Laravel adapter](https://github.com/roach-php/laravel) available.
 
 <!-- END CONTENT -->
 
