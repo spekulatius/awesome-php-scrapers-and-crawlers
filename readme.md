@@ -29,6 +29,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 - [Crawlers](#crawlers)
 - [Spiders](#spiders)
 - [Scrapers](#scrapers)
+- [Tools and Related Libraries](#tools-and-related-libraries)
 
 <!-- CONTENT -->
 
@@ -45,13 +46,16 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 ## Scrapers
 
 - [PHP Scraper](https://github.com/spekulatius/PHPScraper) - A simple way to scraper and crawl the web from PHP.
+- [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper
 - [Roach](https://github.com/roach-php/core) - A complete PHP web-scraping toolkit inspired by Scrapy. [Laravel adapter](https://github.com/roach-php/laravel) available.
 
-## Tools and related Libs
+## Tools and Related Libraries
 
 ### Crawler Detection
 
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent
+- [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents. 
+
 
 <!-- END CONTENT -->
 
