@@ -35,6 +35,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 ## Crawlers
 
 - [Spatie/Crawler](https://github.com/spatie/crawler) - An easy to use, powerful crawler implemented in PHP. Can execute Javascript. [Toolkit](https://github.com/spekulatius/spatie-crawler-toolkit-for-laravel) available for those keen to use the full power of the Spatie crawler.
+- [zrashwani/arachnid](https://github.com/zrashwani/arachnid) - SEO-focused crawler to collect link information, etc.
 
 ## Spiders
 
