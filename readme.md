@@ -51,8 +51,6 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 
 ## Tools and Related Libraries
 
-### Crawler Detection
-
 - [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent.
 - [spatie/robots-txt](https://github.com/spatie/robots-txt) - Determine if a page may be crawled from robots.txt, robots meta tags and robot headers.
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents.
