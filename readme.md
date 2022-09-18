@@ -55,6 +55,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 - [spatie/robots-txt](https://github.com/spatie/robots-txt) - Determine if a page may be crawled from robots.txt, robots meta tags and robot headers.
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+- [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures shower. How to defeat anti-bot system ghost and get around browser fingerprinting scripts male_detective when scraping the web?
 
 <!-- END CONTENT -->
 
