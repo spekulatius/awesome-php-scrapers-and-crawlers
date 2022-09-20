@@ -63,8 +63,9 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 - [donatj/PhpUserAgent](https://github.com/donatj/PhpUserAgent) - Lightning Fast, Minimalist PHP User Agent String Parser.
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures.
 
-### Sanitization
+### HTML Handling: Serialization, Sanitization, etc.
 
+- [Masterminds/html5-php](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer for PHP.
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document's DOM.
 - [tgalopin/html-sanitizer](https://github.com/tgalopin/html-sanitizer) - Sanitize untrustworthy HTML user input.
 
