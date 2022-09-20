@@ -31,7 +31,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 - [Scrapers](#scrapers)
 - [Tools and Related Libraries](#tools-and-related-libraries)
   - [Detection](#detection)
-  - [HTML Handling: Serialization, Sanitization, etc.](#html-handling-serialization-sanitization-etc)
+  - [HTML Handling: Serialization, Sanitization, etc](#html-handling-serialization-sanitization-etc)
 
 <!-- CONTENT -->
 
@@ -43,13 +43,13 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 
 ## Spiders
 
-- [PHP Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider. Various [Examples](https://github.com/mvdbos/php-spider/tree/master/example) available.
+- [mvdbos/PHP-Spider](https://github.com/mvdbos/php-spider) - A configurable and extensible PHP web spider. Various [Examples](https://github.com/mvdbos/php-spider/tree/master/example) available.
 
 ## Scrapers
 
-- [PHP Scraper](https://github.com/spekulatius/PHPScraper) - A simple way to scraper and crawl the web from PHP.
+- [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - A simple way to scraper and crawl the web from PHP.
 - [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper.
-- [Roach](https://github.com/roach-php/core) - A complete PHP web-scraping toolkit inspired by Scrapy. [Laravel adapter](https://github.com/roach-php/laravel) available.
+- [roach-php/core](https://github.com/roach-php/core) - A complete PHP web-scraping toolkit inspired by Scrapy. [Laravel adapter](https://github.com/roach-php/laravel) available.
 
 ## Tools and Related Libraries
 
@@ -63,7 +63,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 - [donatj/PhpUserAgent](https://github.com/donatj/PhpUserAgent) - Lightning Fast, Minimalist PHP User Agent String Parser.
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures.
 
-### HTML Handling: Serialization, Sanitization, etc.
+### HTML Handling: Serialization, Sanitization, etc
 
 - [Masterminds/html5-php](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer for PHP.
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document's DOM.
