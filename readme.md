@@ -30,6 +30,8 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 - [Spiders](#spiders)
 - [Scrapers](#scrapers)
 - [Tools and Related Libraries](#tools-and-related-libraries)
+  - [Detection](#detection)
+  - [Sanitization](#sanitization)
 
 <!-- CONTENT -->
 
@@ -51,12 +53,20 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 
 ## Tools and Related Libraries
 
-- [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent.
-- [donatj/PhpUserAgent](https://github.com/donatj/PhpUserAgent) - Lightning Fast, Minimalist PHP User Agent String Parser.
 - [spatie/robots-txt](https://github.com/spatie/robots-txt) - Determine if a page may be crawled from robots.txt, robots meta tags and robot headers.
 - [symfony/dom-crawler](https://github.com/symfony/dom-crawler) - The DomCrawler component eases DOM navigation for HTML and XML documents.
 - [symfony/panther](https://github.com/symfony/panther) - A browser testing and web crawling library for PHP and Symfony.
+
+### Detection
+
+- [JayBizzle/Crawler-Detect](https://github.com/JayBizzle/Crawler-Detect) - CrawlerDetect is a PHP class for detecting bots/crawlers/spiders via the user agent.
+- [donatj/PhpUserAgent](https://github.com/donatj/PhpUserAgent) - Lightning Fast, Minimalist PHP User Agent String Parser.
 - [niespodd/browser-fingerprinting](https://github.com/niespodd/browser-fingerprinting) - Analysis of Bot Protection systems with available countermeasures.
+
+### Sanitization
+
+- [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document's DOM.
+- [tgalopin/html-sanitizer](https://github.com/tgalopin/html-sanitizer) - Sanitize untrustworthy HTML user input.
 
 <!-- END CONTENT -->
 
