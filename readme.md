@@ -40,6 +40,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 - [Spatie/Crawler](https://github.com/spatie/crawler) - An easy to use, powerful crawler implemented in PHP. Can execute JavaScript. [Toolkit](https://github.com/spekulatius/spatie-crawler-toolkit-for-laravel) available for those keen to use the full power of the Spatie crawler.
 - [crawlzone/crawlzone](https://github.com/crawlzone/crawlzone) - Crawlzone is a fast asynchronous crawling framework.
 - [zrashwani/arachnid](https://github.com/zrashwani/arachnid) - SEO-focused crawler to collect link information, etc.
+- [nadar/crawler](https://github.com/nadar/crawler) - A Website Crawler Implementation written in PHP. High extendible, Indexes PDFs and is very memory efficient.
 
 ## Spiders
 
