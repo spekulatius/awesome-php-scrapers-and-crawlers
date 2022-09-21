@@ -77,6 +77,6 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
-### Contributors
+## Contributors
 
 [Thanks goes to these contributors](https://github.com/spekulatius/awesome-php-scrapers-and-crawlers/graphs/contributors)!
