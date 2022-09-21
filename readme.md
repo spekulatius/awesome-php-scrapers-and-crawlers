@@ -32,7 +32,6 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 - [Tools and Related Libraries](#tools-and-related-libraries)
   - [Detection](#detection)
   - [HTML Handling: Serialization, Sanitization, etc](#html-handling-serialization-sanitization-etc)
-- [Contributors](#contributors)
 
 <!-- CONTENT -->
 
@@ -77,6 +76,6 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 
 [Contributions of any kind welcome, just follow the guidelines](contributing.md)!
 
-### Contributors
+## Contributors
 
 [Thanks goes to these contributors](https://github.com/spekulatius/awesome-php-scrapers-and-crawlers/graphs/contributors)!
