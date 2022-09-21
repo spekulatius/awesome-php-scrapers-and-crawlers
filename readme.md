@@ -32,6 +32,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 - [Tools and Related Libraries](#tools-and-related-libraries)
   - [Detection](#detection)
   - [HTML Handling: Serialization, Sanitization, etc](#html-handling-serialization-sanitization-etc)
+- [Contributors](#contributors)
 
 <!-- CONTENT -->
 
