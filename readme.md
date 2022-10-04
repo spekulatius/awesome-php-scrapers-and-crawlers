@@ -69,7 +69,6 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 
 - [Masterminds/html5-php](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer for PHP.
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document's DOM.
-- [tgalopin/html-sanitizer](https://github.com/tgalopin/html-sanitizer) - Sanitize untrustworthy HTML user input.
 
 <!-- END CONTENT -->
 
