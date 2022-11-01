@@ -50,7 +50,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 ## Scrapers
 
 - [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - A simple way to scraper and crawl the web from PHP.
-- [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper.
+- [FriendsOfPHP/Goutte](https://github.com/FriendsOfPHP/Goutte) - Goutte, a simple PHP Web Scraper. [Laravel Facade](https://github.com/dweidner/laravel-goutte).
 - [roach-php/core](https://github.com/roach-php/core) - A complete PHP web-scraping toolkit inspired by Scrapy. [Laravel adapter](https://github.com/roach-php/laravel) available.
 
 ## Tools and Related Libraries
