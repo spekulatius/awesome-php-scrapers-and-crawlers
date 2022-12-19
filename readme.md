@@ -32,6 +32,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 - [Tools and Related Libraries](#tools-and-related-libraries)
   - [Detection](#detection)
   - [HTML Handling: Serialization, Sanitization, etc](#html-handling-serialization-sanitization-etc)
+  - [URL Handling](#url-handling)
 - [Contributors](#contributors)
 
 <!-- CONTENT -->
@@ -69,6 +70,11 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 
 - [Masterminds/html5-php](https://github.com/Masterminds/html5-php) - An HTML5 parser and serializer for PHP.
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document's DOM.
+
+### URL Handling
+
+- [utopia-php/domains](https://github.com/utopia-php/domains) - Lite & fast micro PHP domain parsing library that is **easy to use**.
+- [thephpleague/uri](https://github.com/thephpleague/uri) - Provides simple and intuitive classes to manage URIs in PHP.
 
 <!-- END CONTENT -->
 
