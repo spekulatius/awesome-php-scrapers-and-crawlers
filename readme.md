@@ -73,7 +73,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 
 ### URL Handling
 
-- [utopia-php/domains](https://github.com/utopia-php/domains) - Lite & fast micro PHP domain parsing library that is **easy to use**.
+- [utopia-php/domains](https://github.com/utopia-php/domains) - Lite & fast micro PHP domain parsing library that is easy to use.
 - [thephpleague/uri](https://github.com/thephpleague/uri) - Provides simple and intuitive classes to manage URIs in PHP.
 
 <!-- END CONTENT -->
