@@ -70,6 +70,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 - [symfony/html-sanitizer](https://github.com/symfony/html-sanitizer) - Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document's DOM.
 
 <!-- END CONTENT -->
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform built with PHP and Symfony for campaigns, segmentation, and lead management.
 
 ## Contributing
 
