@@ -52,6 +52,7 @@ A curated list of anything open-source in the PHP crawler and scraping space: Sc
 
 - [spekulatius/PHPScraper](https://github.com/spekulatius/PHPScraper) - A simple way to scraper and crawl the web from PHP.
 - [roach-php/core](https://github.com/roach-php/core) - A complete PHP web-scraping toolkit inspired by Scrapy. [Laravel adapter](https://github.com/roach-php/laravel) available.
+- [zenkdom/parse-everything](https://github.com/zenkdom/parse-everything) - PHP SDK for web scraping and bypassing Cloudflare Turnstile, Akamai and DataDome.
 
 ## Tools and Related Libraries
 
